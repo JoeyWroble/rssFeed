@@ -1,0 +1,15 @@
+/*
+  Theme Name: joeyrss
+  Description: Responsive Child Theme
+  Author: Ethan DeGross
+  Template: responsive
+  Version: 1.0.0
+  License: GNU General Public License v2 or later
+  Text Domain: joeyrss
+*/
+
+.center {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}

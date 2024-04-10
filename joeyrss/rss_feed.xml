@@ -1,0 +1,105 @@
+<xml version="1.0" encoding="UTF-8">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <title></title>
+        <author></author>
+        <description></description>
+        <audio></audio>
+        <coverImage>[object HTMLInputElement]</coverImaeg>
+        <series>[object HTMLInputElement]</series>
+        <lastBuildDate>Wed, 10 Apr 2024 19:40:13 GMT</lastBuildDate>
+        <pubDate>Wed, 10 Apr 2024 19:40:13 GMT</pubDate>
+        <guid>5dbfa244b5656</guid>
+    </channel>
+</rss><xml version="1.0" encoding="UTF-8">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <title>tew</title>
+        <author>awrar</author>
+        <description></description>
+        <audio></audio>
+        <coverImage>[object HTMLInputElement]</coverImaeg>
+        <series>[object HTMLInputElement]</series>
+        <lastBuildDate>Wed, 10 Apr 2024 19:42:24 GMT</lastBuildDate>
+        <pubDate>Wed, 10 Apr 2024 19:42:24 GMT</pubDate>
+        <guid>bf0e0bd09e9a</guid>
+    </channel>
+</rss><xml version="1.0" encoding="UTF-8">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <title>testing again</title>
+        <author>omg it works</author>
+        <description>thank god</description>
+        <audio></audio>
+        <coverImage>[object HTMLInputElement]</coverImaeg>
+        <series>[object HTMLInputElement]</series>
+        <lastBuildDate>Wed, 10 Apr 2024 19:42:57 GMT</lastBuildDate>
+        <pubDate>Wed, 10 Apr 2024 19:42:57 GMT</pubDate>
+        <guid>de16e10225603</guid>
+    </channel>
+</rss><xml version="1.0" encoding="UTF-8">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <title>testing once again</title>
+        <author>testing duration</author>
+        <description></description>
+        <audio>[object File]</audio>
+        <coverImage>undefined</coverImage>
+        <series>[object HTMLInputElement]</series>
+        <duration>undefined</series>
+        <pubDate>Wed, 10 Apr 2024 19:47:24 GMT</pubDate>
+        <guid>68e0eb4b84884</guid>
+    </channel>
+</rss><xml version="1.0" encoding="UTF-8">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <title>testing once again</title>
+        <author>testing duration</author>
+        <description></description>
+        <audio>testing.mp3</audio>
+        <coverImage></coverImage>
+        <series>[object HTMLInputElement]</series>
+        <duration>42.057143</series>
+        <pubDate>Wed, 10 Apr 2024 19:47:24 GMT</pubDate>
+        <guid>d3c5059e269ad</guid>
+    </channel>
+</rss><xml version="1.0" encoding="UTF-8">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <title>etstae</title>
+        <author></author>
+        <description></description>
+        <audio>testing.mp3</audio>
+        <coverImage></coverImage>
+        <series>[object HTMLInputElement]</series>
+        <duration>42.057143</series>
+        <pubDate>Wed, 10 Apr 2024 19:50:25 GMT</pubDate>
+        <guid>09a1e3882ab23</guid>
+    </channel>
+</rss><xml version="1.0" encoding="UTF-8">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <title>etstae</title>
+        <author></author>
+        <description></description>
+        <audio>ROOSTER9212811018.mp3</audio>
+        <coverImage></coverImage>
+        <series>[object HTMLInputElement]</series>
+        <duration>3590.452189</series>
+        <pubDate>Wed, 10 Apr 2024 19:50:35 GMT</pubDate>
+        <guid>7555e016a777d</guid>
+    </channel>
+</rss><xml version="1.0" encoding="UTF-8">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <title>etstae</title>
+        <author></author>
+        <description></description>
+        <audio>testing.mp3</audio>
+        <coverImage></coverImage>
+        <series>[object HTMLInputElement]</series>
+        <duration>42.057143</series>
+        <pubDate>Wed, 10 Apr 2024 19:50:44 GMT</pubDate>
+        <guid>c39d1d7ed241</guid>
+    </channel>
+</rss>
